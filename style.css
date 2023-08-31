@@ -1,0 +1,9 @@
+.rectangulo{
+    width: 300px;
+    height: 152px;
+    top: -372px;
+    left: -635px;
+    border-radius: 12px;
+    padding: 28px;
+    gap: 12px;
+}
